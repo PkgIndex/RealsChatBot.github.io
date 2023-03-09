@@ -11,6 +11,7 @@
 - [Sanggahan tanggung jawab](#sanggahan-tanggung-jawab)
 - [Amandemen](#amandemen)
 - [Kebijakan pengembalian](#kebijakan-pengembalian)
+- [Kebijakan pribadi](#kebijakan-pribadi)
 
 # Tentang kami
 [Reals Chat Bot](https://t.me/realschatbot) adalah media alternatif untuk mencari teman, pasangan atau hanya untuk sekedar bercerita di telegram secara anonim dengan rasa aman tanpa di ketahui identitas asli mereka, kecuali mereka ingin membagikan sendiri identitas asli mereka. 
