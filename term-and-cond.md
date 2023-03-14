@@ -17,7 +17,7 @@
 [Reals Chat Bot](https://t.me/realschatbot) adalah media alternatif untuk mencari teman, pasangan atau hanya untuk sekedar bercerita di telegram secara anonim dengan rasa aman tanpa di ketahui identitas asli mereka, kecuali mereka ingin membagikan sendiri identitas asli mereka. 
 
 # Sanggahan
-Kami sebagai **Pihak Pengembang** dari [Reals Chat Bot](https://t.me/realschatbot) tidak akan bertanggung jawab atas segala kerugian dengan cara apapun setelah anda menggunakan program kami. Dengan ini anda setuju dan tunduk dengan segala ketentuan kami.
+Kami sebagai **Pihak Pengembang** dari [Reals Chat Bot](https://t.me/realschatbot) tidak akan bertanggung jawab atas segala kerugian dengan cara apapun setelah anda menggunakan layanan kami. Dengan ini anda setuju dan tunduk dengan segala ketentuan kami.
 
 # Pendaftaran
 1. Pengguna mendaftar di [Reals Chat Bot](https://t.me/realschatbot) menggunakan data akun Telegramnya (userId, firstName, lastName, nama pengguna) secara otomatis saat pertama kali menggunakan [Reals Chat Bot](https://t.me/realschatbot) dan otomatis tersimpan dalam database system kami.
